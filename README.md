@@ -4,6 +4,8 @@ This interactive **Spotify Dashboard** is designed to visualize streaming data f
 
 ## Dashboard Features
 
+![WhatsApp Image 2024-10-14 at 12 33 14_18627f04](https://github.com/user-attachments/assets/c3723852-815d-4bd4-aba8-446adef21d3d)
+
 ### 1. Track Information & Stats
 - Displays the **top streamed tracks** based on selected time frames.
 - Shows detailed information for the currently highlighted track, including:
@@ -30,6 +32,9 @@ This interactive **Spotify Dashboard** is designed to visualize streaming data f
 - **BPM Gauge**: The **BPM (beats per minute)** of the currently highlighted song is shown in a visual gauge, giving an immediate representation of its tempo.
 
 ### 5. Tooltips
+
+![image](https://github.com/user-attachments/assets/981cc92d-94af-42e5-9c94-d0354d714de2)
+
 - **Song-Specific Tooltip**: On hovering over a track in the bar chart or heatmap, a tooltip shows additional information about that particular track, including:
   - Release date
   - Number of streams
